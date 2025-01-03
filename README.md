@@ -15,13 +15,9 @@ Displays a welcome message and options for existing and new customers.
 ###### Deposit: Add money to the account.
 ###### Withdraw: Withdraw money while ensuring sufficient balance.
 ###### Check Balance: View current account balance.
-###### Loan Offers:
-
-Options for Personal Loan, Home Loan, Gold Loan, and Agricultural Loan.
+###### Loan Offers: Options for Personal Loan, Home Loan, Gold Loan, and Agricultural Loan.
 ###### Close Account : Closes the existing Bank account details
-###### Developer Mode:
-
-Simulates developer tools like software updates, diagnostics, and shutting down the app.
+###### Developer Mode: Simulates developer tools like software updates, diagnostics, and shutting down the app.
 ###### Error Handling: Ensures smooth handling of invalid inputs and unexpected issues.
 
 ###### Cross-Platform Console Clearing:
